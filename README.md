@@ -1,3 +1,9 @@
+# Edunet Foundation, in collaboration with EY GDS & AICTE 
+
+# Internship on Full Stack Web Development with MERN.
+
+Final Week Submission 
+
 # 🎉 Auction Bidding System
 
 Welcome to the **Auction Bidding System**! This MERN application is designed to manage auctions, bids, and users.
@@ -163,10 +169,17 @@ project/
 
     The frontend will run on [http://localhost:5173](http://localhost:5173).
 
-## 📬 Contact
+-----------------------------------------------------------------------------------------
 
-For any questions or issues, please contact [saimihirnath.nayakanti1@gmail.com](saimihirnath.nayakanti1@gmail.com).
+# Details 
 
-```plaintext
-Feel free to customize any sections or details to better fit your project or preferences!
-```
+Date: 09/02/2025
+
+Name : Mr. Aman Subhash Jambhulkar
+
+AICTE Student ID: STU66c049f07aac21723877872
+
+AICTE Internship ID: INTERNSHIP_173892172667a5d6fed4b6a
+
+Internship Name : Full Stack Web Development with MERN (6-week Internship, commencing from 10th February 2025 to 21st March 2025)
+
